@@ -1,1 +1,1 @@
-## This Project will try to facilitate with a Web Payment ecosystem
+## This Project will try to create a Web Payment ecosystem
